@@ -1,0 +1,12 @@
+// https://www.typescriptlang.org/docs/handbook/compiler-options.html
+{
+  "compilerOptions": {
+    "experimentalDecorators": true
+    "module": "esnext",
+    "target": "esnext",
+    "sourceMap": true,
+    "alwaysStrict": true,
+    "diagnostics": true,
+    "extendedDiagnostics": true
+  }
+}
